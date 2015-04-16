@@ -1,0 +1,57 @@
+Directory :: train/beat3/
+
+beat3_01.txt Most Likely Sequence :: beat4
+beat3_02.txt Most Likely Sequence :: beat3
+beat3_03.txt Most Likely Sequence :: beat3
+beat3_06.txt Most Likely Sequence :: beat3
+beat3_08.txt Most Likely Sequence :: beat3
+
+
+>> tester
+Directory :: train/beat4/
+
+beat4_01.txt Most Likely Sequence :: beat4
+beat4_03.txt Most Likely Sequence :: beat4
+beat4_05.txt Most Likely Sequence :: beat4
+beat4_08.txt Most Likely Sequence :: beat4
+beat4_09.txt Most Likely Sequence :: beat4
+
+
+>> tester
+Directory :: train/circle/
+
+circle12.txt Most Likely Sequence :: circle
+circle13.txt Most Likely Sequence :: circle
+circle14.txt Most Likely Sequence :: circle
+circle17.txt Most Likely Sequence :: circle
+circle18.txt Most Likely Sequence :: circle
+
+
+>> tester
+Directory :: train/wave/
+
+wave01.txt Most Likely Sequence :: wave
+wave02.txt Most Likely Sequence :: wave
+wave03.txt Most Likely Sequence :: wave
+wave05.txt Most Likely Sequence :: wave
+wave07.txt Most Likely Sequence :: wave
+
+
+>> tester
+Directory :: train/eight/
+
+eight01.txt Most Likely Sequence :: eight
+eight02.txt Most Likely Sequence :: eight
+eight04.txt Most Likely Sequence :: eight
+eight07.txt Most Likely Sequence :: eight
+eight08.txt Most Likely Sequence :: eight
+
+
+>> tester
+Directory :: train/inf/
+
+inf11.txt Most Likely Sequence :: inf
+inf112.txt Most Likely Sequence :: inf
+inf13.txt Most Likely Sequence :: inf
+inf16.txt Most Likely Sequence :: eight
+inf18.txt Most Likely Sequence :: inf

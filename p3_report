@@ -1,0 +1,10 @@
+pca graph
+what happend with pca
+	- low CV accuracy
+	- reasons (dimensionality reduction not suited as different reading have different meaning nd describe an essential aspect of motion, basically all are important features)
+	- log likelihood vs iteration graph for gestures
+	- confusion matrix for in-sample accuracy
+	- full cov matrix works best, without any sort of restrictions on pi
+	- a bit of description of rabiner, mit paper
+	- convergence was fast in l2r nmodel but ultimately full matrix worked best
+	- how to select number of observations

@@ -1,0 +1,196 @@
+The values are log likelihood of gestures
+
+::::::::::: MULTIPLE ::::::::::
+
+beat3 :: -Inf
+beat4 :: -Inf
+circle :: -Inf
+eight :: NaN
+inf :: -Inf
+wave :: -2.765080e+03
+test1.txt Most Likely Sequence :: wave
+
+beat3 :: -Inf
+beat4 :: -Inf
+circle :: -2.077240e+03
+eight :: -4.827692e+03
+inf :: NaN
+wave :: -4.214102e+03
+test10.txt Most Likely Sequence :: circle
+
+beat3 :: -Inf
+beat4 :: -Inf
+circle :: -Inf
+eight :: -3.229310e+03
+inf :: -2.426735e+03
+wave :: -3.447387e+03
+test11.txt Most Likely Sequence :: inf
+
+beat3 :: -3.113984e+03
+beat4 :: -1.450041e+03
+circle :: -Inf
+eight :: NaN
+inf :: -Inf
+wave :: -7.648278e+03
+test12.txt Most Likely Sequence :: beat4
+
+beat3 :: -Inf
+beat4 :: -1.440276e+03
+circle :: -Inf
+eight :: -Inf
+inf :: -Inf
+wave :: -7.015286e+03
+test2.txt Most Likely Sequence :: beat4
+
+beat3 :: -Inf
+beat4 :: -Inf
+circle :: -Inf
+eight :: -2.429989e+03
+inf :: -7.426946e+03
+wave :: -1.768078e+04
+test3.txt Most Likely Sequence :: eight
+
+beat3 :: -1.625219e+03
+beat4 :: -1.318025e+03
+circle :: -Inf
+eight :: NaN
+inf :: NaN
+wave :: -6.728136e+03
+test4.txt Most Likely Sequence :: beat4
+
+beat3 :: -Inf
+beat4 :: -4.585265e+03
+circle :: -Inf
+eight :: -Inf
+inf :: -8.350694e+03
+wave :: -1.918385e+03
+test5.txt Most Likely Sequence :: wave
+
+beat3 :: -Inf
+beat4 :: -Inf
+circle :: -Inf
+eight :: -2.458466e+03
+inf :: -2.266112e+03
+wave :: -6.919370e+03
+test6.txt Most Likely Sequence :: inf
+beat3 :: -Inf
+beat4 :: -Inf
+circle :: -Inf
+eight :: -1.224764e+03
+inf :: -3.559684e+03
+wave :: -9.167283e+03
+test7.txt Most Likely Sequence :: eight
+
+beat3 :: -6.910448e+03
+beat4 :: -Inf
+circle :: -4.658600e+03
+eight :: NaN
+inf :: -Inf
+wave :: -5.968143e+03
+test8.txt Most Likely Sequence :: circle
+
+beat3 :: -2.601620e+03
+beat4 :: -1.457281e+03
+circle :: -Inf
+eight :: NaN
+inf :: NaN
+wave :: -7.831990e+03
+test9.txt Most Likely Sequence :: beat4
+
+::::::::::::: SINGLE ::::::::::
+
+beat3 :: -Inf
+beat4 :: -Inf
+circle :: -Inf
+eight :: NaN
+inf :: -Inf
+wave :: -2.765080e+03
+test1.txt Most Likely Sequence :: wave
+
+beat3 :: -Inf
+beat4 :: -Inf
+circle :: -2.077240e+03
+eight :: -4.827692e+03
+inf :: NaN
+wave :: -4.214102e+03
+test10.txt Most Likely Sequence :: circle
+
+beat3 :: -Inf
+beat4 :: -Inf
+circle :: -Inf
+eight :: -3.229310e+03
+inf :: -2.426735e+03
+wave :: -3.447387e+03
+test11.txt Most Likely Sequence :: inf
+
+beat3 :: -3.113984e+03
+beat4 :: -1.450041e+03
+circle :: -Inf
+eight :: NaN
+inf :: -Inf
+wave :: -7.648278e+03
+test12.txt Most Likely Sequence :: beat4
+
+beat3 :: -Inf
+beat4 :: -1.440276e+03
+circle :: -Inf
+eight :: -Inf
+inf :: -Inf
+wave :: -7.015286e+03
+test2.txt Most Likely Sequence :: beat4
+
+beat3 :: -Inf
+beat4 :: -Inf
+circle :: -Inf
+eight :: -2.429989e+03
+inf :: -7.426946e+03
+wave :: -1.768078e+04
+test3.txt Most Likely Sequence :: eight
+
+beat3 :: -1.625219e+03
+beat4 :: -1.318025e+03
+circle :: -Inf
+eight :: NaN
+inf :: NaN
+wave :: -6.728136e+03
+test4.txt Most Likely Sequence :: beat4
+
+beat3 :: -Inf
+beat4 :: -4.585265e+03
+circle :: -Inf
+eight :: -Inf
+inf :: -8.350694e+03
+wave :: -1.918385e+03
+test5.txt Most Likely Sequence :: wave
+
+beat3 :: -Inf
+beat4 :: -Inf
+circle :: -Inf
+eight :: -2.458466e+03
+inf :: -2.266112e+03
+wave :: -6.919370e+03
+test6.txt Most Likely Sequence :: inf
+
+beat3 :: -Inf
+beat4 :: -Inf
+circle :: -Inf
+eight :: -1.224764e+03
+inf :: -3.559684e+03
+wave :: -9.167283e+03
+test7.txt Most Likely Sequence :: eight
+
+beat3 :: -6.910448e+03
+beat4 :: -Inf
+circle :: -4.658600e+03
+eight :: NaN
+inf :: -Inf
+wave :: -5.968143e+03
+test8.txt Most Likely Sequence :: circle
+
+beat3 :: -2.601620e+03
+beat4 :: -1.457281e+03
+circle :: -Inf
+eight :: NaN
+inf :: NaN
+wave :: -7.831990e+03
+test9.txt Most Likely Sequence :: beat4

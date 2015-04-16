@@ -1,0 +1,27 @@
+HW2M1 IWS ::
+
+Test at : http://java-regex-tester.appspot.com/
+
+Test String(s) - 
+/this/that[something/else[d/e/f[foo[text()="something"]/aditya][bar]/a/b/c[text()= "whiteSpacesShouldNotMatter"]]]
+/this/that[something/else[d/e/f[foo/aditya]/a/b/c]]
+/this/that[something/else[d/e/f/a/b/c]]
+/this/that[something/else]
+/this/that
+
+1. \[([^\[\]]*)\] : extracts everything in the innermost []s, including the brackets
+2. (\s*?)(text)(\s*?)(\(\))(\s*?)(=)(\s*?)(\")(.*?)(\")(\s*?) : extracts info as "  text  ()  =  "  something  "  "
+3. (\s*?)(contains)(\s*?)(\(\s*?)(text)(\s*?)(\(\))(\s*?)(\,)(\s*?)(\")(.*?)(\")(\s*?)(\))(\s*?) : 
+	extracts info as " contains ( text() , " 475hs gfyuds " ) "
+4. (\s*?)(\@)(\s*?)(\p{Alnum}*)(\s*?)(\=)(\s*?)(\")(.*?)(\")(\s*?) : extracts info as "  @ num1 = " gyfyfy " "
+
+algo - 
+
+1. check if '//' or '::' or '/*' exist
+2. check if count('[') == count(']'), maybe keep this count
+3. check starting from the innermost brackets and replacing them with ""
+4. check the entire xpath recursively until something of the form /a/b/c is left
+
+
+
+
